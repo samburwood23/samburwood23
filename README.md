@@ -2,9 +2,14 @@
 
 I'm interested in the intersection of mathematics, computer science, and engineering — especially where theory meets creativity. A lot of my recent work explores **complexity theory and fuzzy logic**: why verifying a solution is easy but generating one is hard, and how that gap shows up in AI agents, search, and heuristic decision-making.
 
-Alongside that, I build small, practical tools — from a technical-writing assistant to everyday utility apps — and I'm comfortable moving between research write-ups, data/ML experiments, and shipped web projects.
+I also care a lot about **technical writing and documentation** — turning dense engineering work into content other people can actually learn from — and I build tools to make that easier, alongside research write-ups, data/ML experiments, and shipped web projects.
 
 Outside of code, I'm into **art, music, and skateboarding**, which shape how I think about structure, flow, and problem-solving.
+
+## ✍️ Technical Writing & Documentation
+
+- [Technical Documentation](https://github.com/samburwood23/TechnicalDocumentation) — a full guide for writing technical blog posts: templates (problem-solution, tool deep-dive, debugging guides, tech comparisons), a "Four Pillars of Great Content" framework, AI-assisted writing prompts, and a publishing workflow.
+- [Technical Blog Writing Assistant](https://github.com/samburwood23/technical_blog_writing) — a RAG-powered chatbot (Gradio) built on those templates and guides, so you can ask it about structure, tone, openings, metrics, or which template fits your post.
 
 ## 🚀 Featured Projects
 
@@ -16,7 +21,6 @@ Outside of code, I'm into **art, music, and skateboarding**, which shape how I t
 - [Women's Career Earnings](https://github.com/samburwood23/WomensCareerEarningsFL) — data analysis project.
 
 **Tools & Apps**
-- [Technical Blog Writing Assistant](https://github.com/samburwood23/technical_blog_writing) — a RAG-powered chatbot (Gradio) that helps engineers write better technical blog posts.
 - [Cleaning Rota App](https://github.com/samburwood23/cleaning-rota-app) — TypeScript app for organizing household chore schedules.
 - [Art Website](https://github.com/samburwood23/ART_WEBSITE) — personal art portfolio site.
 - [Running Calculator](https://github.com/samburwood23/running-calculator) — JS tool for running pace and time calculations.
